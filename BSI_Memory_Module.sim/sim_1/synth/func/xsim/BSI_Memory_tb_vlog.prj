@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"BSI_Memory_tb_func_synth.v" \
+
+sv xil_defaultlib  \
+"../../../../../BSI_Memory_Module.srcs/sim_1/new/BSI_Memory_tb.sv" \
+
+# Do not sort compile order
+nosort

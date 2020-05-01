@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:48:12 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Thu Apr 30 21:59:37 2020
+# Process ID: 80113
+# Current directory: /home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.runs/synth_1
+# Command line: vivado -log bsi_mem_v1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source bsi_mem_v1.tcl
+# Log file: /home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.runs/synth_1/bsi_mem_v1.vds
+# Journal file: /home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source bsi_mem_v1.tcl -notrace

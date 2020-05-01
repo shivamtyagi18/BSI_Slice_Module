@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.sim/sim_1/synth/func/xsim/BSI_Memory_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bsi_mem_v1
+INFO: [VRFC 10-311] analyzing module glbl

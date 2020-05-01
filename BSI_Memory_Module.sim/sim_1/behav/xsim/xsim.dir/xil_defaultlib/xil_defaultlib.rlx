@@ -1,0 +1,8 @@
+0.6
+2019.2
+Dec  5 2019
+04:51:02
+/home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.srcs/sim_1/new/BSI_Memory_tb.sv,1588309117,systemVerilog,,,,BSI_Memory_tb,,,,,,,,
+/home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.srcs/sources_1/new/BSI_Memory.sv,1582536245,systemVerilog,,/home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.srcs/sources_1/new/bsi_mem_v1.sv,,BSI_Memory,,,,,,,,
+/home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.srcs/sources_1/new/bsi_mem_v1.sv,1588308978,systemVerilog,,/home/shivamtyagi/BSI_Memory_Module/BSI_Memory_Module.srcs/sim_1/new/BSI_Memory_tb.sv,,bsi_mem_v1,,,,,,,,

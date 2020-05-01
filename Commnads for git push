@@ -1,0 +1,8 @@
+Commnads for git push:
+
+git remote add BSI_Multiplier https://github.com/shivamtyagi18/BSI_Multiplier.git
+
+git add .
+git commit -m "Message"
+
+git push -f Hardware-Accelerator-Main  master

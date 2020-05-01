@@ -1,0 +1,1 @@
+-wto "777f8bcb076247ff95170835bbce1e87" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "secureip" --snapshot "BSI_Memory_tb_func_synth" "xil_defaultlib.BSI_Memory_tb" "xil_defaultlib.glbl" -log "elaborate.log" 
